@@ -1,0 +1,22 @@
+<html>
+<head>
+
+</head>
+<body>
+<b>介绍一下，这是我的朋友</b></br>
+<a href="https://www.bilibili.com/"><img  title="人像" src="./t01cf7e1a69a513a6b1.jpg" /></a></br>
+EMAIL:<A href="mailto:sinacsc@vip.sina.com">她的邮箱</A>
+</body>
+</html>
+
+
+
+
+	HTML扩展练习（二）
+1、	制作一个页面，页面内容有文字、图像和朋友的Email地址。要求：使用图像标记的title属性；在文字和图像上创建超级链接，单击链接时，页面跳转到其他页面；单击Email地址时，打开邮件发送程序，发送邮件。
+2、	制作一个计算器界面，界面布局参考2.jpg。（注意：只制作界面即可，不必实现计算器功能。）
+3、	将html_base4.rar解压缩到D盘根目录，使得在D:\html_base4\目录下有html_base4.html和blculib.gif两个文件。修改html_base4.html，并将D：\html_base\目录上传到你的个人网站上，要求在访问你的个人网站上的html_base4.html时，满足以下要求：
+①点击该页面所有链接时，都在新窗口打开新的页面；
+②图片能够正常显示，点击图片打开北京语言大学图书馆主页；
+③表格第一行和其余各行左侧单元格内的文字在单元格中居中；
+④表格第三行右侧单元格内只在http://dlib.edu.cnki.net文字上有链接。
